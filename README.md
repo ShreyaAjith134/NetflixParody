@@ -81,6 +81,15 @@ NetflixParody/
 
 ---
 
+## UI Preview
+
+### 🔐 Login Page
+![Login](assets/login_screen.png)
+
+### 📊 Home Page
+![Dashboard](assets/home_page.png)
+
+---
 ## License
 
 This project is for educational and personal use. Modify and build upon it freely.
